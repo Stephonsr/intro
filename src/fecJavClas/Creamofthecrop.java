@@ -6,6 +6,8 @@ public class Creamofthecrop {
 		
 		System.out.println("This Is Stephon's");
 		System.out.println("The All Mighty Great");
+		System.out.println("Now I'm Learning");
+		System.out.println("Very Tricky");
 	}
 
 }
